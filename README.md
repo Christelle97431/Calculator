@@ -36,6 +36,8 @@ If Tkinter is installed and working correctly, a small popup window will appear.
 To quit the powershell :     
 `>>> quit()` 
 
+5. Run in the terminal  
+`python3 calculatrice.py`
   
 # License
 This application is open-source under the [MIT license](https://opensource.org/licenses/MIT).  
