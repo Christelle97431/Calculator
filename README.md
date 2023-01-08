@@ -1,5 +1,5 @@
 # Calculator
-1 day 1 project to learn about Python and Flask
+1 day 1 project to learn about Python and tkinter
 
 ## General Information
 Application that allows you to create the interface of a calculator and its mathematical operations without using the exec or eval methods.
